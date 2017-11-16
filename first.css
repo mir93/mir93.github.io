@@ -1,0 +1,26 @@
+body {
+    background-color: lightslategrey;
+}
+
+h1 {
+	font-family: broadway;
+	font-size: 40pt;
+    color: orange;
+    text-align: center;
+}
+
+h2 {
+	font-family: Verdana;
+	font-size: 30pt;
+	color: yellow;
+	text-align: center;
+}
+
+p {
+font-family: arial; 
+color:blue;
+font-size: 20pt;
+text-align: center;
+}
+
+img {padding-left: 400pt;}
